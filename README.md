@@ -9,3 +9,6 @@ Please follow the instructions to install requirements and also download data fr
 
 En-De MuST-C data is approximately 80GB, and training with approx 30GB GPU takes atleast a week.
 The tweaks and results were using roughly 1/10 th of the data, approx. 25000 instances. This training would take atleast a day with the given GPU memory.
+
+After downloading the data, please use bpe.sh if you want to use Byte Pair Encoding.
+
