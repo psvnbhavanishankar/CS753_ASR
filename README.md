@@ -4,3 +4,5 @@ Made some changes to original ConST to make it work. Changes are made in ConST/C
 
 
 Tweaks and Corresponding results are mentioned in this doc: [Tweaks and Results](https://docs.google.com/document/d/1fcuTXIInNOBO4xkz0fIZ36wIWW10BGcI-DeCfYFVWPs/edit?usp=sharing)
+
+Please follow the instructions to install requirements and also download data from the original ConST repository. [ConST](https://github.com/ReneeYe/ConST)
