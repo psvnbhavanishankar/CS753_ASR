@@ -15,4 +15,6 @@ After downloading the data, please use bpe.sh if you want to use Byte Pair Encod
 modified_train_scipt_1.sh contains the training script with contrastive loss applied both before and after the Transformer Encoder.
 modified_train_scipt_2.sh contains the training script with modified number of attention heads and Transformer Encoder-Decoder layers.
 
+The contrastive loss is applied before the transformer encoder and we hypothesize that augumenting another contrastive loss after the Transformer Encoder (and before the Transformer Decoder) would be helpful to get the high level speech and text representations near to each other, and that would improve the performanace.
+
 
