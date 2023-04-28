@@ -12,3 +12,7 @@ The tweaks and results were using roughly 1/10 th of the data, approx. 25000 ins
 
 After downloading the data, please use bpe.sh if you want to use Byte Pair Encoding.
 
+modified_train_scipt_1.sh contains the training script with contrastive loss applied both before and after the Transformer Encoder.
+modified_train_scipt_2.sh contains the training script with modified number of attention heads and Transformer Encoder-Decoder layers.
+
+
