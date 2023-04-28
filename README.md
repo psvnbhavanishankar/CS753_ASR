@@ -1,4 +1,4 @@
-# CS753_ASR
+# CS753_ASR - ConST (Cross-modal Contrastive Learning for Speech Translation)
 
 Tweaks and Corresponding results are mentioned in this doc: [Tweaks and Results](https://docs.google.com/document/d/1fcuTXIInNOBO4xkz0fIZ36wIWW10BGcI-DeCfYFVWPs/edit?usp=sharing)
 
